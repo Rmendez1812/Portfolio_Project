@@ -14,7 +14,7 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
 
-The following criteria has been applied to the html and css to accomplish the follwing.
+The following criteria has been applied to the html and css to accomplish the following.
 
 ```
 GIVEN I need to sample a potential employee's previous work
